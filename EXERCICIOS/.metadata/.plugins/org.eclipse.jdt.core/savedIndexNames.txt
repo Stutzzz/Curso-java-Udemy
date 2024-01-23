@@ -1,5 +1,10 @@
 INDEX VERSION 1.134+C:\Users\thiag\OneDrive\Documentos\Dev\Eclipse Projects\EXERCICIOS\.metadata\.plugins\org.eclipse.jdt.core
+755312698.index
+3272296726.index
 3295055119.index
+1510086828.index
 711519267.index
+3020716416.index
 1865797976.index
 1567612085.index
+3183097259.index
