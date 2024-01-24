@@ -2,6 +2,9 @@
 <qualifiedTypeNameHistroy>
     <fullyQualifiedTypeName name="entities.Product"/>
     <fullyQualifiedTypeName name="javax.swing.text.Position"/>
+    <fullyQualifiedTypeName name="entities.Alunos"/>
+    <fullyQualifiedTypeName name="entities.Pessoas"/>
     <fullyQualifiedTypeName name="java.util.Locale"/>
     <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="entities.Pessoa"/>
 </qualifiedTypeNameHistroy>
