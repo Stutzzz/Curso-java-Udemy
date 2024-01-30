@@ -5,10 +5,10 @@
     <fullyQualifiedTypeName name="entities.Alunos"/>
     <fullyQualifiedTypeName name="entities.Pessoas"/>
     <fullyQualifiedTypeName name="entities.Pessoa"/>
-    <fullyQualifiedTypeName name="java.util.Locale"/>
     <fullyQualifiedTypeName name="java.lang.System"/>
-    <fullyQualifiedTypeName name="java.util.Scanner"/>
     <fullyQualifiedTypeName name="java.util.List"/>
     <fullyQualifiedTypeName name="java.util.ArrayList"/>
     <fullyQualifiedTypeName name="entitites.Employees"/>
+    <fullyQualifiedTypeName name="java.util.Locale"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
 </qualifiedTypeNameHistroy>
